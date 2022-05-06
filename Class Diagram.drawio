@@ -1,32 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-05-06T20:49:55.944Z" agent="5.0 (Windows)" etag="S7lYcl6fE674sDLNbXhH" version="18.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-06T21:38:01.188Z" agent="5.0 (Windows)" etag="ZYaYtkIihnN-QSyplemS" version="18.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1085" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="coV18CZ96dicYKJdgp45-4" value="User" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="225" width="160" height="280" as="geometry" />
+          <mxGeometry x="700" y="225" width="160" height="272" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-5" value="- userID : String&#xa;- firstName : String&#xa;- lastName : String&#xa;- age : int&#xa;- sex : String&#xa;- email : String&#xa;- address : String&#xa;- role : String&#xa;- phoneNumber : String&#xa;- username : String&#xa;- password : String" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-4">
           <mxGeometry y="26" width="160" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="coV18CZ96dicYKJdgp45-6" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;strokeColor=#6C8EBF;" vertex="1" parent="coV18CZ96dicYKJdgp45-4">
-          <mxGeometry y="200" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="coV18CZ96dicYKJdgp45-7" value="+ login() : void&#xa;+ getter() : getType()&#xa;+ setter() : void()&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-4">
-          <mxGeometry y="208" width="160" height="72" as="geometry" />
+        <mxCell id="coV18CZ96dicYKJdgp45-7" value="+ login() : void&#xa;+ getter() : getType&#xa;+ setter() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-4">
+          <mxGeometry y="200" width="160" height="72" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6C8EBF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="422" y="555" as="sourcePoint" />
-            <mxPoint x="420" y="505" as="targetPoint" />
+            <mxPoint x="782" y="555" as="sourcePoint" />
+            <mxPoint x="780" y="501" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="422" y="555" />
+              <mxPoint x="782" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-47" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="551" width="720" height="173" as="geometry" />
+          <mxGeometry x="40" y="551" width="1372" height="173" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.438;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6C8EBF;" edge="1" parent="coV18CZ96dicYKJdgp45-47" source="coV18CZ96dicYKJdgp45-9">
           <mxGeometry relative="1" as="geometry">
@@ -45,7 +42,7 @@
           <mxGeometry y="34" width="164.57142857142856" height="80" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-14" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;strokeColor=#6C8EBF;" vertex="1" parent="coV18CZ96dicYKJdgp45-47">
-          <mxGeometry x="72" width="556.4571428571428" height="8" as="geometry" />
+          <mxGeometry x="72" width="1300" height="8" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.438;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6C8EBF;" edge="1" parent="coV18CZ96dicYKJdgp45-47" source="coV18CZ96dicYKJdgp45-16">
           <mxGeometry relative="1" as="geometry">
@@ -96,7 +93,7 @@
           <mxGeometry y="34" width="164.57142857142856" height="80" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-48" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="761" width="723" height="173" as="geometry" />
+          <mxGeometry x="785" y="551" width="723" height="173" as="geometry" />
         </mxCell>
         <mxCell id="coV18CZ96dicYKJdgp45-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.438;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6C8EBF;" edge="1" parent="coV18CZ96dicYKJdgp45-48" source="coV18CZ96dicYKJdgp45-29">
           <mxGeometry relative="1" as="geometry">
@@ -162,16 +159,112 @@
         <mxCell id="coV18CZ96dicYKJdgp45-45" value="+ generateReport() : void&#xa;+ sendReport() : void&#xa;+ updateReport() : void&#xa;+ view() : void&#xa;+ search() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-43">
           <mxGeometry y="34" width="171" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="coV18CZ96dicYKJdgp45-46" value="" style="line;strokeWidth=2;fillColor=none;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;strokeColor=#6C8EBF;" vertex="1" parent="coV18CZ96dicYKJdgp45-48">
-          <mxGeometry x="68" width="561" height="8" as="geometry" />
+        <mxCell id="coV18CZ96dicYKJdgp45-50" value="Client" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="695" y="761" width="160" height="276" as="geometry" />
         </mxCell>
-        <mxCell id="coV18CZ96dicYKJdgp45-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeWidth=2;spacingTop=0;fontSize=12;entryX=0.516;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6C8EBF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="coV18CZ96dicYKJdgp45-14">
+        <mxCell id="coV18CZ96dicYKJdgp45-51" value="- MRN : String&#xa;- date : Date&#xa;- ANCReg.No. : String&#xa;- facilityName : String&#xa;- houseNo. : String&#xa;- martialStatus : String&#xa;- gravidity : int&#xa;- parity : int&#xa;- numberOfChildren : int&#xa;- LMP : Date&#xa;- EDD : Date&#xa;- gestAge : Date&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-50">
+          <mxGeometry y="26" width="160" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-52" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-50">
+          <mxGeometry y="204" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6C8EBF;entryX=0.505;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="402" y="765" as="sourcePoint" />
-            <mxPoint x="400" y="715" as="targetPoint" />
+            <mxPoint x="777" y="761" as="sourcePoint" />
+            <mxPoint x="772.5000000000002" y="556" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="399" y="765" />
+              <mxPoint x="773" y="761" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-55" value="ANCVisits" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="975" y="761" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-56" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-55">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-57" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-55">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-60" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;exitX=0.997;exitY=0.584;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.715;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="coV18CZ96dicYKJdgp45-51" target="coV18CZ96dicYKJdgp45-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="888" y="939" as="sourcePoint" />
+            <mxPoint x="938" y="889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-61" value="Delivery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="975" y="1131" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-62" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-61">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-63" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-61">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-64" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="coV18CZ96dicYKJdgp45-61" source="coV18CZ96dicYKJdgp45-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="1032" as="sourcePoint" />
+            <mxPoint x="1045" y="1123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-65" value="Delivery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="791" y="1131" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-66" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-65">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-67" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-65">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-68" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="833" y="1038" as="sourcePoint" />
+            <mxPoint x="833" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-69" value="Delivery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="605" y="1131" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-70" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-69">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-71" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-69">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-72" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;exitX=0.147;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="coV18CZ96dicYKJdgp45-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663" y="1038" as="sourcePoint" />
+            <mxPoint x="663" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-73" value="Delivery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="1131" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-74" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-73">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-75" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-73">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-76" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;exitX=-0.01;exitY=0.73;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695.4000000000001" y="1018.56" as="sourcePoint" />
+            <mxPoint x="475" y="1131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-77" value="Delivery" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="377" y="766" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-78" value="- MRN : String&#xa;- date : Date&#xa;- anemia : String&#xa;- fetal-heartbeat : String&#xa;- presentation : String&#xa;- urine-test : String&#xa;- hemoglobin : String&#xa;- blood-group : String&#xa;- tuberculosis : String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-77">
+          <mxGeometry y="26" width="160" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-79" value="+ login() : void&#xa;+ view() : void&#xa;+ sendFeedback() : void&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=2;spacingTop=0;fontSize=12;" vertex="1" parent="coV18CZ96dicYKJdgp45-77">
+          <mxGeometry y="170" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="coV18CZ96dicYKJdgp45-80" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=none;fontSize=12;strokeColor=#6C8EBF;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="898" as="sourcePoint" />
+            <mxPoint x="538" y="898" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
