@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T07:36:44.383Z" agent="5.0 (Windows)" etag="TQHxMT5ekB8tpNIgwYwQ" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T07:40:23.598Z" agent="5.0 (Windows)" etag="zekbHKqIya0-t8m7kFax" version="18.0.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Class Diagram">
     <mxGraphModel dx="1080" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-25" value="Request" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=1;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="193" y="840" width="133" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="ezx2IVxBo0MTf1jBkaTU-26" value="- clientName : String&#xa;- requestType : String&#xa;- senderName : String&#xa;- date : Date&#xa;- signature: String&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-25" vertex="1">
+        <mxCell id="ezx2IVxBo0MTf1jBkaTU-26" value="- requestType : String&#xa;- senderName : String&#xa;- requestCase : String&#xa;- date : Date" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-25" vertex="1">
           <mxGeometry y="26" width="133" height="101" as="geometry" />
         </mxCell>
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-27" value="+ getter() : String&#xa;+ setter() : void" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-25" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-33" value="Prescription" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=1;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="334" y="840" width="144" height="183" as="geometry" />
         </mxCell>
-        <mxCell id="ezx2IVxBo0MTf1jBkaTU-34" value="- clientName : String&#xa;- drugName : String&#xa;- method : String&#xa;- dose : Double&#xa;- presciberName : String&#xa;- date : Date&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-33" vertex="1">
+        <mxCell id="ezx2IVxBo0MTf1jBkaTU-34" value="- drugName : String&#xa;- method : String&#xa;- dose : Double&#xa;- presciberName : String&#xa;- date : Date&#xa;" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-33" vertex="1">
           <mxGeometry y="26" width="144" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-35" value="+ getter() : String&#xa;+ setter() : void" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-33" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-37" value="Report" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=1;spacingTop=0;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="632" y="840" width="137" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ezx2IVxBo0MTf1jBkaTU-38" value="- reportID : String&#xa;- senderName : String&#xa;- date : Date" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-37" vertex="1">
+        <mxCell id="ezx2IVxBo0MTf1jBkaTU-38" value="- reportID : String&#xa;- reportType: String&#xa;- date : Date" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-37" vertex="1">
           <mxGeometry y="26" width="137" height="71" as="geometry" />
         </mxCell>
         <mxCell id="ezx2IVxBo0MTf1jBkaTU-39" value="+ getter() : String&#xa;+ setter() : void" style="text;strokeColor=#6C8EBF;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeWidth=1;spacingTop=0;fontSize=12;" parent="ezx2IVxBo0MTf1jBkaTU-37" vertex="1">
