@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T08:56:46.254Z" agent="5.0 (Windows)" etag="g0dujplLzzMYX1sePvQ-" version="18.0.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-16T08:57:37.993Z" agent="5.0 (Windows)" etag="L8vMcPFzmBPsPjNVxbDL" version="18.0.5" type="github" pages="6">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Create user SD">
     <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
             <mxPoint x="313.5" y="160.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Cqd7YPnJBy1kgEXoRos-8" value="Midwifery" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="_Cqd7YPnJBy1kgEXoRos-8" value="Midwife" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="77" y="80" width="20" height="400" as="geometry" />
         </mxCell>
         <mxCell id="_Cqd7YPnJBy1kgEXoRos-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=2;" parent="_Cqd7YPnJBy1kgEXoRos-8" vertex="1">
@@ -663,7 +663,7 @@
             <mxPoint x="283.5" y="170.10000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vy-9UcMfXYfSumkrdV6J-7" value="Midwifery Nurse" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Vy-9UcMfXYfSumkrdV6J-7" value="&lt;b&gt;Midwife&lt;/b&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="47" y="90" width="20" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Vy-9UcMfXYfSumkrdV6J-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;strokeWidth=2;" parent="Vy-9UcMfXYfSumkrdV6J-7" vertex="1">
