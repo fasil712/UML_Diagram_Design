@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T08:09:33.848Z" agent="5.0 (Windows)" etag="FSpF9b5fEQx6Ub0HkeM5" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T08:11:38.269Z" agent="5.0 (Windows)" etag="R13r9An74Y3j5PBIJxoy" version="18.0.5" type="github">
   <diagram id="ftHDJsCwS-N9WV5DZKyB" name="Page-1">
     <mxGraphModel dx="620" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="4s9nhKdhcSExY_lbLFu8-18" value="update user account" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="83" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4s9nhKdhcSExY_lbLFu8-23" value="delete user account" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="452.5" y="118" width="130" height="30" as="geometry" />
+        <mxCell id="4s9nhKdhcSExY_lbLFu8-23" value="deactivate user account" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="452.5" y="118" width="137.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4s9nhKdhcSExY_lbLFu8-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="4s9nhKdhcSExY_lbLFu8-17" target="4s9nhKdhcSExY_lbLFu8-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -63,7 +63,7 @@
         <mxCell id="4s9nhKdhcSExY_lbLFu8-37" value="update client data" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="189" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4s9nhKdhcSExY_lbLFu8-38" value="delete client data" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4s9nhKdhcSExY_lbLFu8-38" value="deactivate client data" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="226" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4s9nhKdhcSExY_lbLFu8-39" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="4s9nhKdhcSExY_lbLFu8-34" target="4s9nhKdhcSExY_lbLFu8-38" edge="1">
@@ -193,7 +193,7 @@
             <mxPoint x="228.6647544613736" y="592.232612960398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4s9nhKdhcSExY_lbLFu8-82" value="update dispensed drug" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="4s9nhKdhcSExY_lbLFu8-82" value="&lt;div&gt;update drug &lt;br&gt;&lt;/div&gt;&lt;div&gt;details&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="465.25" y="600" width="121.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4s9nhKdhcSExY_lbLFu8-83" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;" parent="1" source="4s9nhKdhcSExY_lbLFu8-78" target="4s9nhKdhcSExY_lbLFu8-82" edge="1">
