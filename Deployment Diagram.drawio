@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T08:15:00.837Z" agent="5.0 (Windows)" etag="Yn-rjVQne5l3z7wzipTr" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T08:17:45.601Z" agent="5.0 (Windows)" etag="HMduOlEvlEMQm2ps0-pD" version="18.0.6" type="github">
   <diagram id="K9vstJfjLwMJOS5qIRNx" name="Page-1">
-    <mxGraphModel dx="902" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="902" dy="474" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-6" value="&lt;div align=&quot;center&quot;&gt;&amp;lt;&amp;lt;Devices&amp;gt;&amp;gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Mobiles&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="120" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-7" value="MHMRS Apk" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-7" value="MHMRS.Apk" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="170" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-8" value="&lt;div align=&quot;center&quot;&gt;&amp;lt;&amp;lt;Devices&amp;gt;&amp;gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Computer&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -40,13 +40,18 @@
             <mxPoint x="460" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-18" value="https" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Xs8Bk3E_hXv1E8FiyUUi-15">
+          <mxGeometry x="-0.1762" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=120;exitDy=95;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=85;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="Xs8Bk3E_hXv1E8FiyUUi-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="637" y="187" as="sourcePoint" />
             <mxPoint x="490" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-17" value="query/response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xs8Bk3E_hXv1E8FiyUUi-16">
+        <mxCell id="Xs8Bk3E_hXv1E8FiyUUi-17" value="query/response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Xs8Bk3E_hXv1E8FiyUUi-16">
           <mxGeometry x="-0.0566" y="9" relative="1" as="geometry">
             <mxPoint x="33" as="offset" />
           </mxGeometry>
