@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T20:33:52.462Z" agent="5.0 (Windows)" etag="npsAa8pEUh6MMO-IaypW" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T20:36:37.154Z" agent="5.0 (Windows)" etag="evudXx9Z9aEsqItAKFxe" version="18.1.3" type="github">
   <diagram id="ThzIVCSQ_q952PgusPZi" name="Page-1">
     <mxGraphModel dx="1320" dy="627" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -946,7 +946,7 @@
         <mxCell id="744p8OlDvJer0JTKOkNd-48" value="Result" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=12;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="477" y="348" width="80" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="744p8OlDvJer0JTKOkNd-49" value="Dispensed Drug List " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=12;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="744p8OlDvJer0JTKOkNd-49" value="Drug Detail" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=12;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="567" y="348" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="744p8OlDvJer0JTKOkNd-54" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=1;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;exitX=0.482;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" parent="1" source="vm7sEMdp7V4cGfMIUsO3-45" edge="1">
@@ -956,7 +956,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="744p8OlDvJer0JTKOkNd-57" value="View Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=12;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="755" y="348" width="82" height="35" as="geometry" />
+          <mxGeometry x="755" y="348" width="82" height="39" as="geometry" />
         </mxCell>
         <mxCell id="744p8OlDvJer0JTKOkNd-58" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=1;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;exitX=0.37;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" parent="1" target="744p8OlDvJer0JTKOkNd-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1064,6 +1064,15 @@
             <Array as="points">
               <mxPoint x="243.03658536585365" y="387.889" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G8PgLNT4ez3r4NSpPadU-1" value="Generate Report" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;strokeWidth=1;perimeterSpacing=0;shadow=0;fontSize=12;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="676" y="348" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G8PgLNT4ez3r4NSpPadU-2" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=1;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;exitX=0.482;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="707.9923961661341" y="309.999" as="sourcePoint" />
+            <mxPoint x="708.1929423405984" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
