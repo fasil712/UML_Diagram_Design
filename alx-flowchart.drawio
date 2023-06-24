@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T10:04:40.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Ca2O-V4jZFyw8gTY9R5g" version="21.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-24T10:05:34.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4wsUnyx92JKcOd2hoFaA" version="21.5.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1332" dy="486" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bNYeDXoOXaSUM8q55_wD" name="Page-3">
-    <mxGraphModel dx="1783" dy="1001" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="1003" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
         <mxCell id="sGQmPscQWWAiHBEGs57d-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Task 2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-805" y="-192" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sGQmPscQWWAiHBEGs57d-15" value="iInitialize:&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;sum = 0&lt;br style=&quot;font-size: 13px;&quot;&gt;i = 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="sGQmPscQWWAiHBEGs57d-15" value="print sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1077" y="309" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sGQmPscQWWAiHBEGs57d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sGQmPscQWWAiHBEGs57d-16" target="sGQmPscQWWAiHBEGs57d-9">
@@ -264,7 +264,7 @@
             <mxPoint x="-1020" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGQmPscQWWAiHBEGs57d-16" value="iInitialize:&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;sum = 0&lt;br style=&quot;font-size: 13px;&quot;&gt;i = 0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="sGQmPscQWWAiHBEGs57d-16" value="sum = sum + i" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1077" y="214" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sGQmPscQWWAiHBEGs57d-20" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
