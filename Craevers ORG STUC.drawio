@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T07:15:35.302Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="z9LifJaSqXVvsrpMYxDf" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:15:56.490Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="XIA1tY2CqEi3aznsmca5" version="22.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Mr. Gerard Hounkponou" position="CEO" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="40" width="180" height="70" as="geometry" />
+            <mxGeometry x="250" y="40" width="200" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-11" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
