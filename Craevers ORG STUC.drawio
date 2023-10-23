@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T07:12:34.275Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="vZWEd3f_WgQP50Z82kDo" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:13:07.511Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="nACL2rDCUNadIBSWYpUb" version="22.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,15 +14,15 @@
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-11" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="225" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="250" y="260" />
+              <mxPoint x="250" y="245" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Sir. Meskerem Juffar" position="Marketing Manager" location="Office 2" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="dNxyNK7c78bLwvsdeMH5-14">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="50" y="295" width="180" height="80" as="geometry" />
+            <mxGeometry x="50" y="280" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.561;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-11" edge="1">
@@ -33,20 +33,20 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="MSc. Ananiya Getachew" position="Project Manager / CTO" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="dNxyNK7c78bLwvsdeMH5-16">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="265" y="295" width="190" height="80" as="geometry" />
+            <mxGeometry x="265" y="280" width="190" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-11" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="360" y="235" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="620" y="260" />
+              <mxPoint x="620" y="245" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Sir. Samir Habtewold" position="Executive Secretary" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="dNxyNK7c78bLwvsdeMH5-18">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="500" y="295" width="180" height="80" as="geometry" />
+            <mxGeometry x="500" y="280" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" source="dNxyNK7c78bLwvsdeMH5-12" target="R47WpOzAu4U2Wh8acil--2" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -59,43 +59,43 @@
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--3" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" target="R47WpOzAu4U2Wh8acil--4" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="285" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Eyerusalem Yadessa" position="Digital Marketer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--4">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="50" y="415" width="180" height="80" as="geometry" />
+            <mxGeometry x="50" y="400" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--7" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" target="R47WpOzAu4U2Wh8acil--8" source="dNxyNK7c78bLwvsdeMH5-16" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="285" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Rekik Maylef" position="Senior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--8">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="270" y="415" width="180" height="80" as="geometry" />
+            <mxGeometry x="270" y="400" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" target="R47WpOzAu4U2Wh8acil--10" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="495" as="sourcePoint" />
+            <mxPoint x="360" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Fasil Getie" position="Junior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--10">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="150" y="545" width="180" height="80" as="geometry" />
+            <mxGeometry x="150" y="530" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tekleab Mulugeta " position="Junior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--11">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="350" y="545" width="180" height="80" as="geometry" />
+            <mxGeometry x="350" y="530" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="R47WpOzAu4U2Wh8acil--8" target="R47WpOzAu4U2Wh8acil--11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="375" as="sourcePoint" />
-            <mxPoint x="550" y="415" as="targetPoint" />
+            <mxPoint x="360" y="360" as="sourcePoint" />
+            <mxPoint x="550" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
