@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T07:13:45.467Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="91uhz-MsorWA95JizC0J" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:14:23.548Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="StU_M9y-8IiK9KkVPJTq" version="22.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Rekik Maylef" position="Senior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--8">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="270" y="400" width="180" height="80" as="geometry" />
+            <mxGeometry x="270" y="400" width="210" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--9" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" target="R47WpOzAu4U2Wh8acil--10" parent="dNxyNK7c78bLwvsdeMH5-11">
@@ -84,12 +84,12 @@
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Fasil Getie" position="Junior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--10">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="150" y="530" width="180" height="80" as="geometry" />
+            <mxGeometry x="120" y="530" width="210" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tekleab Mulugeta " position="Junior Software Developer" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="R47WpOzAu4U2Wh8acil--11">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-            <mxGeometry x="350" y="530" width="180" height="80" as="geometry" />
+            <mxGeometry x="350" y="530" width="210" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="R47WpOzAu4U2Wh8acil--12" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="R47WpOzAu4U2Wh8acil--8" target="R47WpOzAu4U2Wh8acil--11">
