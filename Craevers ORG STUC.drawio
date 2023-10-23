@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T07:15:06.511Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="KUz6XwKIcmpSbfW7fxAx" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:15:35.302Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="z9LifJaSqXVvsrpMYxDf" version="22.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="880" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Organization Structure" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="60" width="710" height="850" as="geometry" />
+          <mxGeometry x="40" y="60" width="710" height="660" as="geometry" />
         </mxCell>
         <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Mr. Gerard Hounkponou" position="CEO" location="Abyssinya Building, 3rd floor, near Bole MedhaneAlem" email="contact@creavers.com" placeholders="1" link="https://creavers.com" id="dNxyNK7c78bLwvsdeMH5-12">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
