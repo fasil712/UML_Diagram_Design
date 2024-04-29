@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T06:35:20.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="1H9-flHDc1S6YD8mpJmw" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T06:36:49.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ev0h-pe_lr_v5UTTQnRk" version="24.3.0" type="github">
   <diagram name="Page-1" id="IlU0qOO4f0eTFkJFD-Sp">
     <mxGraphModel dx="1026" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -406,7 +406,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_f0eR9gCtV97OWRL1Jzt-74" value="Facts &amp;amp; FAQs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-74" value="Latest News" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="720" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f0eR9gCtV97OWRL1Jzt-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_f0eR9gCtV97OWRL1Jzt-76">
@@ -417,8 +417,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_f0eR9gCtV97OWRL1Jzt-76" value="VR Elements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-76" value="Latest Videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="720" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_f0eR9gCtV97OWRL1Jzt-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="650" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-78" value="VR Elements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="720" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
