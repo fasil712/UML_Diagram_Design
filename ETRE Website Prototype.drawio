@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T06:39:13.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="8OSYp6Gygo-ho33OavDf" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T06:43:00.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="ywegQBXv2Vg_ZoJ-rMXa" version="24.3.0" type="github">
   <diagram name="Page-1" id="IlU0qOO4f0eTFkJFD-Sp">
     <mxGraphModel dx="1026" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -472,7 +472,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_f0eR9gCtV97OWRL1Jzt-91" value="Gallary Images" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-91" value="Addis-Adama Expressway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1040" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f0eR9gCtV97OWRL1Jzt-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_f0eR9gCtV97OWRL1Jzt-93">
@@ -483,7 +483,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_f0eR9gCtV97OWRL1Jzt-93" value="Gallary Videos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-93" value="Dire Dawa Dewalle Toll Road" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1040" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_f0eR9gCtV97OWRL1Jzt-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_f0eR9gCtV97OWRL1Jzt-95">
@@ -494,7 +494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_f0eR9gCtV97OWRL1Jzt-95" value="VR Elements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="_f0eR9gCtV97OWRL1Jzt-95" value="Modjo - Batu Expressway" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1040" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
