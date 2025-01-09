@@ -145,13 +145,18 @@
         <mxCell id="SQxApibKQi68mYz8Mstw-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxApibKQi68mYz8Mstw-15" target="SQxApibKQi68mYz8Mstw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SQxApibKQi68mYz8Mstw-35" value="Select Equb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SQxApibKQi68mYz8Mstw-18">
+          <mxGeometry x="-0.0833" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SQxApibKQi68mYz8Mstw-15" value="Equb/Home" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQxApibKQi68mYz8Mstw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxApibKQi68mYz8Mstw-17" target="SQxApibKQi68mYz8Mstw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQxApibKQi68mYz8Mstw-17" value="Equb List" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SQxApibKQi68mYz8Mstw-17" value="Ava. Equb List" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQxApibKQi68mYz8Mstw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxApibKQi68mYz8Mstw-23" target="SQxApibKQi68mYz8Mstw-26">
