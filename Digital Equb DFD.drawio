@@ -162,6 +162,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SQxApibKQi68mYz8Mstw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SQxApibKQi68mYz8Mstw-23" target="SQxApibKQi68mYz8Mstw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="760" />
+              <mxPoint x="445" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SQxApibKQi68mYz8Mstw-34" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SQxApibKQi68mYz8Mstw-33">
+          <mxGeometry x="0.0933" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SQxApibKQi68mYz8Mstw-23" value="Agreement" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="720" width="80" height="80" as="geometry" />
         </mxCell>
