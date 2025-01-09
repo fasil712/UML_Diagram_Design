@@ -165,8 +165,14 @@
         <mxCell id="SQxApibKQi68mYz8Mstw-23" value="Agreement" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="720" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="SQxApibKQi68mYz8Mstw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQxApibKQi68mYz8Mstw-26" target="SQxApibKQi68mYz8Mstw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SQxApibKQi68mYz8Mstw-26" value="Dashboard" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SQxApibKQi68mYz8Mstw-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
