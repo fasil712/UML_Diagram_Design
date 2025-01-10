@@ -626,8 +626,8 @@
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-78" value="Saved money added" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0222" relative="1" as="geometry">
-            <mxPoint x="398" y="855" as="sourcePoint" />
-            <mxPoint x="220" y="855" as="targetPoint" />
+            <mxPoint x="398" y="852" as="sourcePoint" />
+            <mxPoint x="220" y="852" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -668,6 +668,12 @@
             <mxPoint x="592" y="880" as="sourcePoint" />
             <mxPoint x="222" y="880" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-88" value="Payed Notification/SMS" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="409" y="860" as="sourcePoint" />
+            <mxPoint x="599" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
