@@ -348,7 +348,7 @@
           <mxGeometry x="46" y="558" width="10" height="32" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-76" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_b83oER5-g9AiVH4bwvo-3">
-          <mxGeometry x="46" y="719" width="10" height="121" as="geometry" />
+          <mxGeometry x="46" y="719" width="10" height="131" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-4" value=":Application Server" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="150" height="1040" as="geometry" />
@@ -363,7 +363,7 @@
           <mxGeometry x="70" y="610" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-83" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_b83oER5-g9AiVH4bwvo-4">
-          <mxGeometry x="70" y="800" width="10" height="20" as="geometry" />
+          <mxGeometry x="70" y="800" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_b83oER5-g9AiVH4bwvo-4">
           <mxGeometry x="69" y="866" width="10" height="134" as="geometry" />
@@ -629,8 +629,8 @@
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-78" value="Saved money added" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0222" relative="1" as="geometry">
-            <mxPoint x="398" y="852" as="sourcePoint" />
-            <mxPoint x="220" y="852" as="targetPoint" />
+            <mxPoint x="398" y="847" as="sourcePoint" />
+            <mxPoint x="220" y="847" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -668,8 +668,8 @@
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-87" value="Send payed notification/SMS" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.4865" relative="1" as="geometry">
-            <mxPoint x="592" y="880" as="sourcePoint" />
-            <mxPoint x="222" y="880" as="targetPoint" />
+            <mxPoint x="592" y="891" as="sourcePoint" />
+            <mxPoint x="222" y="891" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -734,6 +734,13 @@
           <mxGeometry x="0.0222" relative="1" as="geometry">
             <mxPoint x="396" y="996" as="sourcePoint" />
             <mxPoint x="221" y="996" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-101" value="Show payment history" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0222" relative="1" as="geometry">
+            <mxPoint x="399" y="869" as="sourcePoint" />
+            <mxPoint x="221" y="869" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
