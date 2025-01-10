@@ -425,7 +425,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-30" value="Saved" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-30" value="Equbtegna Acc. Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0222" relative="1" as="geometry">
             <mxPoint x="242" y="300" as="sourcePoint" />
             <mxPoint x="62" y="300" as="targetPoint" />
