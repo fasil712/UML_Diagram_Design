@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KtXDZUTqJY46fK0Fzek-0" value="Third-Party" style="swimlane;startSize=0;fillColor=default;strokeColor=#82B366;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;rounded=1;arcSize=29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4KtXDZUTqJY46fK0Fzek-0" value="&#xa;&#xa;Third-Party" style="swimlane;startSize=0;fillColor=default;strokeColor=#82B366;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;rounded=1;arcSize=29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="380" width="380" height="280" as="geometry">
             <mxRectangle x="90" y="390" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4KtXDZUTqJY46fK0Fzek-3" value="Portal/Admin Dashboard" style="swimlane;startSize=0;fillColor=default;strokeColor=#82B366;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;rounded=1;arcSize=29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4KtXDZUTqJY46fK0Fzek-3" value="&#xa;&#xa;Portal/Admin Dashboard" style="swimlane;startSize=0;fillColor=default;strokeColor=#82B366;fillStyle=auto;gradientColor=none;swimlaneFillColor=none;rounded=1;arcSize=29;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="380" width="460" height="280" as="geometry">
             <mxRectangle x="90" y="390" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
