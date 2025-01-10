@@ -84,7 +84,7 @@
           <mxGeometry x="400" y="80" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="IrOff0IZFetIZdWrxFY4-10" value="&lt;b&gt;Database&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Equbs Data&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Equbtegnas Information&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payments and Its Records&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Action Log&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Created and Last modified date&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="680" y="105" width="240" height="130" as="geometry" />
+          <mxGeometry x="648" y="105" width="240" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4KtXDZUTqJY46fK0Fzek-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4KtXDZUTqJY46fK0Fzek-3" target="IrOff0IZFetIZdWrxFY4-9">
           <mxGeometry relative="1" as="geometry">
