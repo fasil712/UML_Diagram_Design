@@ -360,13 +360,13 @@
           <mxGeometry x="70" y="610" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-5" value=":Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="740" y="40" width="100" height="560" as="geometry" />
+          <mxGeometry x="740" y="40" width="100" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_b83oER5-g9AiVH4bwvo-5">
           <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_b83oER5-g9AiVH4bwvo-5">
-          <mxGeometry x="45" y="220" width="10" height="340" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="780" as="geometry" />
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-8" value="Enter Phone Number" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.005" relative="1" as="geometry">
@@ -508,7 +508,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-52" value="Joined" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-52" value="Show started equb" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0222" relative="1" as="geometry">
             <mxPoint x="402" y="654" as="sourcePoint" />
             <mxPoint x="222" y="654" as="targetPoint" />
@@ -569,6 +569,38 @@
             <mxPoint x="593" y="626" as="sourcePoint" />
             <mxPoint x="223" y="626" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-67" value="Procced to Payment" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="44" y="679" as="sourcePoint" />
+            <mxPoint x="214" y="679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-68" value="Payment channels requested" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="226" y="688" as="sourcePoint" />
+            <mxPoint x="396" y="688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-69" value="Query to fetch payment channels" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+          <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
+            <mxPoint x="412.5" y="696" as="sourcePoint" />
+            <mxPoint x="787.5" y="696" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-70" value="Show&amp;nbsp; payment channels" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0222" relative="1" as="geometry">
+            <mxPoint x="402" y="712" as="sourcePoint" />
+            <mxPoint x="222" y="712" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-71" value="Select Payment Channel" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="43" y="732" as="sourcePoint" />
+            <mxPoint x="213" y="732" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
