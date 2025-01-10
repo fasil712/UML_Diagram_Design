@@ -644,7 +644,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-81" value="Enter Payment PIN/Password" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-81" value="Enter Payment Channel PIN" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="43" y="807" as="sourcePoint" />
             <mxPoint x="213" y="807" as="targetPoint" />
@@ -674,6 +674,12 @@
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="408" y="860" as="sourcePoint" />
             <mxPoint x="598" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_b83oER5-g9AiVH4bwvo-89" value="Enter Payment PIN/Password" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="47" y="920" as="sourcePoint" />
+            <mxPoint x="217" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
