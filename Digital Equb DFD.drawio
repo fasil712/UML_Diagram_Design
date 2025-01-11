@@ -389,7 +389,7 @@
             <mxPoint x="599.5" y="169" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-12" value="Query&amp;nbsp;to Store Phone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="_b83oER5-g9AiVH4bwvo-10" vertex="1" connectable="0">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-12" value="Store Phone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" parent="_b83oER5-g9AiVH4bwvo-10" vertex="1" connectable="0">
           <mxGeometry x="0.0133" y="1" relative="1" as="geometry">
             <mxPoint x="-86" y="-61" as="offset" />
           </mxGeometry>
@@ -431,7 +431,7 @@
             <mxPoint x="209.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-28" value="Query to Store Data" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" source="_b83oER5-g9AiVH4bwvo-22" target="_b83oER5-g9AiVH4bwvo-27" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-28" value="Store Equbtegna Data" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" source="_b83oER5-g9AiVH4bwvo-22" target="_b83oER5-g9AiVH4bwvo-27" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="420" y="260" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -463,14 +463,14 @@
             <mxPoint x="210" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-38" value="Query to Fetch available equb types" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-38" value="Fetch available equb types" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="410" y="345" as="sourcePoint" />
             <mxPoint x="785" y="345" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-40" value="Query to Fetch equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-40" value="Fetch equbs" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="412" y="444" as="sourcePoint" />
             <mxPoint x="787" y="444" as="targetPoint" />
@@ -490,7 +490,7 @@
             <mxPoint x="213" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-44" value="Query to fetch agreement of equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-44" value="Fetch agreement of equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="412" y="508" as="sourcePoint" />
             <mxPoint x="787" y="508" as="targetPoint" />
@@ -510,7 +510,7 @@
             <mxPoint x="399" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-49" value="Query to joined the equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-49" value="Joined the equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="412.5" y="572" as="sourcePoint" />
             <mxPoint x="787.5" y="572" as="targetPoint" />
@@ -537,7 +537,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-56" value="Verify OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-56" value="Verify OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="200" as="sourcePoint" />
             <mxPoint x="400" y="200" as="targetPoint" />
@@ -592,7 +592,7 @@
             <mxPoint x="396" y="688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-69" value="Query to fetch payment channels" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-69" value="Fetch payment channels" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="412.5" y="696" as="sourcePoint" />
             <mxPoint x="787.5" y="696" as="targetPoint" />
@@ -697,7 +697,7 @@
             <mxPoint x="396" y="918" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-93" value="Query to fetch equb members/info" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-93" value="Fetch equb members/info" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="0.0053" relative="1" as="geometry">
             <mxPoint x="411.5" y="931" as="sourcePoint" />
             <mxPoint x="786.5" y="931" as="targetPoint" />
@@ -723,7 +723,7 @@
             <mxPoint x="396" y="968" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-98" value="Query to fetch equb lottery/history" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-98" value="Fetch equb lottery/history" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="411.5" y="981" as="sourcePoint" />
             <mxPoint x="786.5" y="981" as="targetPoint" />
@@ -756,7 +756,7 @@
             <mxPoint x="397" y="1016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-104" value="Query to add/delete bank Info" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-104" value="Add/delete bank Info" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
             <mxPoint x="411.5" y="1024" as="sourcePoint" />
             <mxPoint x="786.5" y="1024" as="targetPoint" />
@@ -835,7 +835,7 @@
             <mxPoint x="599.5" y="169" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-18" value="Query&amp;nbsp;to Store Phone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="7-QdsO7SOUe9uUSC8Wb_-17">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-18" value="Query&amp;nbsp;to authorize users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=0" vertex="1" connectable="0" parent="7-QdsO7SOUe9uUSC8Wb_-17">
           <mxGeometry x="0.0133" y="1" relative="1" as="geometry">
             <mxPoint x="-86" y="-61" as="offset" />
           </mxGeometry>
@@ -846,23 +846,17 @@
             <mxPoint x="595" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-20" value="Send OTP SMS API" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="146" as="sourcePoint" />
-            <mxPoint x="595" y="146" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-21" value="Send OTP" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry x="0.4865" relative="1" as="geometry">
-            <mxPoint x="595" y="170" as="sourcePoint" />
-            <mxPoint x="225" y="170" as="targetPoint" />
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-21" value="Send admin dashboard data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry x="0.1429" relative="1" as="geometry">
+            <mxPoint x="400" y="147" as="sourcePoint" />
+            <mxPoint x="225" y="147" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-22" value="Enter OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-22" value="Create Popular Equb" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49" y="190" as="sourcePoint" />
-            <mxPoint x="210" y="190" as="targetPoint" />
+            <mxPoint x="49" y="172" as="sourcePoint" />
+            <mxPoint x="210" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-23" value="Verified" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
@@ -977,13 +971,13 @@
           <mxGeometry x="65" y="60" width="10" height="940" as="geometry" />
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-41" value="Admin Login" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry x="-0.005" relative="1" as="geometry">
+          <mxGeometry x="-0.0065" relative="1" as="geometry">
             <mxPoint x="220" y="114" as="sourcePoint" />
             <mxPoint x="400" y="114" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-42" value="Verify OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-42" value="Verify OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="200" as="sourcePoint" />
             <mxPoint x="400" y="200" as="targetPoint" />
