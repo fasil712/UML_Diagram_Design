@@ -774,7 +774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iPoXDa9hLBkDQ37YEFFw" name="Page-5">
-    <mxGraphModel dx="934" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -818,7 +818,7 @@
           <mxGeometry x="740" y="40" width="100" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="7-QdsO7SOUe9uUSC8Wb_-13">
-          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="7-QdsO7SOUe9uUSC8Wb_-13">
           <mxGeometry x="45" y="220" width="10" height="780" as="geometry" />
@@ -871,10 +871,11 @@
             <mxPoint x="209.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-25" value="Query to Store Data" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1" source="7-QdsO7SOUe9uUSC8Wb_-9" target="7-QdsO7SOUe9uUSC8Wb_-15">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-25" value="Store created equb data" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry x="-0.4133" y="5" relative="1" as="geometry">
-            <mxPoint x="420" y="260" as="sourcePoint" />
+            <mxPoint x="410" y="216.00000000000057" as="sourcePoint" />
             <mxPoint as="offset" />
+            <mxPoint x="785" y="216.00000000000057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-26" value="Equbtegna Acc. Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
@@ -977,10 +978,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-42" value="Verify OTP" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-42" value="create equb requested" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry x="-0.0065" relative="1" as="geometry">
             <mxPoint x="220" y="200" as="sourcePoint" />
             <mxPoint x="400" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-43" value="Register" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
