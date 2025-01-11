@@ -859,13 +859,13 @@
             <mxPoint x="210" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-23" value="Verified" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-23" value="Show Created Equbs" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="223" as="sourcePoint" />
             <mxPoint x="221" y="223" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-24" value="Fill equbtegna data" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-24" value="Create Users" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="50" y="240" as="sourcePoint" />
             <mxPoint x="209.5" y="240" as="targetPoint" />
@@ -878,10 +878,10 @@
             <mxPoint x="785" y="216.00000000000057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-26" value="Equbtegna Acc. Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-26" value="Users created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry x="0.0222" relative="1" as="geometry">
-            <mxPoint x="402" y="300" as="sourcePoint" />
-            <mxPoint x="222" y="300" as="targetPoint" />
+            <mxPoint x="401" y="293" as="sourcePoint" />
+            <mxPoint x="221" y="293" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -985,7 +985,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-43" value="Register" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+        <mxCell id="7-QdsO7SOUe9uUSC8Wb_-43" value="Users created" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="223" y="250" as="sourcePoint" />
             <mxPoint x="403" y="250" as="targetPoint" />
@@ -1210,6 +1210,13 @@
             <mxPoint x="396" y="1040" as="sourcePoint" />
             <mxPoint x="221" y="1040" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhUmjpZSUrUZuGtxDKzP-1" value="Store created users data" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
+          <mxGeometry x="-0.4102" y="5" relative="1" as="geometry">
+            <mxPoint x="410" y="266.00000000000057" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="785" y="266.00000000000057" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
