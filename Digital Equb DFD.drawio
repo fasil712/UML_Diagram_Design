@@ -76,11 +76,11 @@
         <mxCell id="4KtXDZUTqJY46fK0Fzek-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="340" />
-              <mxPoint x="366" y="340" />
+              <mxPoint x="440" y="341" />
+              <mxPoint x="366" y="341" />
             </Array>
-            <mxPoint x="440" y="259" as="sourcePoint" />
-            <mxPoint x="366" y="378" as="targetPoint" />
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="366" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IrOff0IZFetIZdWrxFY4-9" value="&lt;b&gt;Application Server&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Scheduled Tasks&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Application Pattern&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Third-party credentials&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Business Logic&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Lottery Logic&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;File Processing&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Data initialization&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
