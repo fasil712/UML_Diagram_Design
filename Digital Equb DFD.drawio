@@ -394,10 +394,10 @@
             <mxPoint x="-86" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_b83oER5-g9AiVH4bwvo-13" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" target="_b83oER5-g9AiVH4bwvo-9" edge="1">
+        <mxCell id="_b83oER5-g9AiVH4bwvo-13" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="116" as="sourcePoint" />
-            <mxPoint x="595" y="116" as="targetPoint" />
+            <mxPoint x="410" y="118" as="sourcePoint" />
+            <mxPoint x="785" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-19" value="Send OTP SMS API" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
@@ -532,8 +532,8 @@
         </mxCell>
         <mxCell id="_b83oER5-g9AiVH4bwvo-55" value="Phone Login" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" parent="1" edge="1">
           <mxGeometry x="-0.005" relative="1" as="geometry">
-            <mxPoint x="220" y="120" as="sourcePoint" />
-            <mxPoint x="400" y="120" as="targetPoint" />
+            <mxPoint x="220" y="111" as="sourcePoint" />
+            <mxPoint x="400" y="111" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -978,8 +978,8 @@
         </mxCell>
         <mxCell id="7-QdsO7SOUe9uUSC8Wb_-41" value="Admin Login" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1.5;" edge="1" parent="1">
           <mxGeometry x="-0.005" relative="1" as="geometry">
-            <mxPoint x="220" y="120" as="sourcePoint" />
-            <mxPoint x="400" y="120" as="targetPoint" />
+            <mxPoint x="220" y="114" as="sourcePoint" />
+            <mxPoint x="400" y="114" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
