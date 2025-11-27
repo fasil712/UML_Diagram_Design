@@ -232,7 +232,7 @@
           <mxGeometry height="124.5" width="260" x="520" y="148.25" as="geometry" />
         </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-7" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;" value="Database (Postgres Server)&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Balekircha Information&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha management data&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payments Records&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Campaign messages, notifications and others&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Requests data&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="300" x="330" y="320" as="geometry" />
+          <mxGeometry height="140" width="310" x="320" y="320" as="geometry" />
         </mxCell>
         <mxCell id="87QyYxb0_3F6z7gquhva-2" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=13;" target="jtRoU-NnxyhBLwK6qcEN-7">
           <mxGeometry relative="1" as="geometry" />
