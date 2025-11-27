@@ -194,67 +194,43 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Dk Arc" id="3zIeP_L9i3HM4o8thkaG">
-    <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-0" />
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-1" parent="jtRoU-NnxyhBLwK6qcEN-0" />
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-2" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="jtRoU-NnxyhBLwK6qcEN-7">
+        <mxCell id="jtRoU-NnxyhBLwK6qcEN-2" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="211" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtRoU-NnxyhBLwK6qcEN-3" parent="jtRoU-NnxyhBLwK6qcEN-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" value="Third-Party&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Payment Server API&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Telebirr&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;CBEBirr,&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Awash Bank&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;BOA Visa..&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="250" x="-180" y="155.5" as="geometry" />
+        </mxCell>
+        <mxCell id="87QyYxb0_3F6z7gquhva-1" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jtRoU-NnxyhBLwK6qcEN-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-3" parent="jtRoU-NnxyhBLwK6qcEN-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" value="Third-Party&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Payemnt Service&lt;/span&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Telebirr, CbeBirr, OA Visa..&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="200" x="173.5" y="570" as="geometry" />
-        </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-4" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="jtRoU-NnxyhBLwK6qcEN-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="87QyYxb0_3F6z7gquhva-3" connectable="0" parent="87QyYxb0_3F6z7gquhva-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTPS (REST) + JWT / Session Tokens" vertex="1">
+          <mxGeometry relative="1" x="0.078" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-5" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Digital Kircha App (Flutter)" vertex="1">
-          <mxGeometry height="50" width="190" x="181" y="30" as="geometry" />
+          <mxGeometry height="50" width="190" x="194.75" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-6" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Application Server&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Authntication &amp;amp; Authorization&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payment Handling&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Lottery Management&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="101" width="200" x="178.5" y="260" as="geometry" />
+        <mxCell id="jtRoU-NnxyhBLwK6qcEN-6" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Application Server API&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Authentication &amp;amp; Authorization&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha join and agreement&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payment Handling&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Request and confirm&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124.5" width="260" x="500" y="145.5" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-7" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Database (MS SQL Server)&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Equbs Information&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Equbtegnas Profiles&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payments Records&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Lottery Results&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="190" x="178.5" y="404" as="geometry" />
+        <mxCell id="jtRoU-NnxyhBLwK6qcEN-7" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Database (Postgres Server)&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Balekircha Information&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha management&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payments Records&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Campaign messages, notifications and others&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Requests&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="139.75" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-8" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="jtRoU-NnxyhBLwK6qcEN-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="323" y="120" />
-              <mxPoint x="323" y="120" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="87QyYxb0_3F6z7gquhva-0" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jtRoU-NnxyhBLwK6qcEN-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-9" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="API Gateways" vertex="1">
-          <mxGeometry height="50" width="190" x="181" y="140" as="geometry" />
+        <mxCell id="87QyYxb0_3F6z7gquhva-2" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jtRoU-NnxyhBLwK6qcEN-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-10" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="jtRoU-NnxyhBLwK6qcEN-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="236.5" y="244" as="sourcePoint" />
-            <mxPoint x="236.5" y="284" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-11" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" target="jtRoU-NnxyhBLwK6qcEN-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="331.5" y="280" as="sourcePoint" />
-            <mxPoint x="331.5" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-12" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234.5" y="362" as="sourcePoint" />
-            <mxPoint x="234.5" y="402" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jtRoU-NnxyhBLwK6qcEN-13" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="329.5" y="402" />
-              <mxPoint x="329.5" y="402" />
-            </Array>
-            <mxPoint x="329.5" y="402" as="sourcePoint" />
-            <mxPoint x="329.5" y="362" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="jtRoU-NnxyhBLwK6qcEN-9" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="API Gateways&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Digital Kircha Backend API&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Third-Party Payment API&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Firebase API&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="217.5" x="181" y="150.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
