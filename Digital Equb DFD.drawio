@@ -222,6 +222,9 @@
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-5" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Digital Kircha App (Flutter)" vertex="1">
           <mxGeometry height="50" width="190" x="194.75" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="87QyYxb0_3F6z7gquhva-8" edge="1" parent="jtRoU-NnxyhBLwK6qcEN-1" source="jtRoU-NnxyhBLwK6qcEN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="87QyYxb0_3F6z7gquhva-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-6" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Application Server API&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Authentication &amp;amp; Authorization&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha join and agreement&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payment Handling&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Request and confirm&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="124.5" width="260" x="520" y="148.25" as="geometry" />
         </mxCell>
@@ -236,6 +239,9 @@
         </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-9" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="API Gateways&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Digital Kircha Backend API&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Third-Party Payment API&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Firebase API&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="217.5" x="181" y="150.5" as="geometry" />
+        </mxCell>
+        <mxCell id="87QyYxb0_3F6z7gquhva-7" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Redis Server&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Local caching&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="570" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
