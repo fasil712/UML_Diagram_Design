@@ -218,7 +218,7 @@
           <mxGeometry height="50" width="190" x="194.75" y="30" as="geometry" />
         </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-6" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Application Server API&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Authentication &amp;amp; Authorization&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha join and agreement&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payment Handling&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Request and confirm&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="124.5" width="260" x="500" y="145.5" as="geometry" />
+          <mxGeometry height="124.5" width="260" x="500" y="147.5" as="geometry" />
         </mxCell>
         <mxCell id="jtRoU-NnxyhBLwK6qcEN-7" parent="jtRoU-NnxyhBLwK6qcEN-1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Database (Postgres Server)&lt;br&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Balekircha Information&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Kircha management&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Payments Records&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Campaign messages, notifications and others&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Meat Requests&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="300" x="139.75" y="340" as="geometry" />
