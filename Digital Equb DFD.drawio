@@ -1671,7 +1671,7 @@
         <mxCell id="2ZXQuRNhmId8Sbb0bZKV-18" edge="1" parent="1" source="2ZXQuRNhmId8Sbb0bZKV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.056;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;align=center;strokeWidth=2;gradientColor=#ea6b66;fontStyle=1;labelBackgroundColor=none;" target="2ZXQuRNhmId8Sbb0bZKV-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2ZXQuRNhmId8Sbb0bZKV-21" parent="1" style="image;html=1;image=img/lib/clip_art/finance/Dollar_128x128.png;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;align=center;strokeWidth=2;gradientColor=#ea6b66;fontStyle=1;labelBackgroundColor=none;" value="Pay required amont" vertex="1">
+        <mxCell id="2ZXQuRNhmId8Sbb0bZKV-21" parent="1" style="image;html=1;image=img/lib/clip_art/finance/Dollar_128x128.png;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;align=center;strokeWidth=2;gradientColor=#ea6b66;fontStyle=1;labelBackgroundColor=none;" value="Pay required amount" vertex="1">
           <mxGeometry height="80" width="80" x="430" y="505" as="geometry" />
         </mxCell>
         <mxCell id="2ZXQuRNhmId8Sbb0bZKV-22" edge="1" parent="1" source="2ZXQuRNhmId8Sbb0bZKV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;align=center;strokeWidth=2;gradientColor=#ea6b66;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;labelBackgroundColor=none;" target="2ZXQuRNhmId8Sbb0bZKV-21">
