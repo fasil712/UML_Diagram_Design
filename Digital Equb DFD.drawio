@@ -534,7 +534,7 @@
         <mxCell id="zPPh92snP0LapKwa6hfJ-5" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Register" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-10" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Auth" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-10" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fad7ac;strokeColor=#b46504;" value="Auth" vertex="1">
           <mxGeometry height="270" width="730" x="205" y="210" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-16" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" target="An6h_dc5tu-ERglaM6pu-14">
@@ -571,10 +571,10 @@
         <mxCell id="zPPh92snP0LapKwa6hfJ-18" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="OTP" vertex="1">
           <mxGeometry height="60" width="120" x="510" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-34" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Kircha" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-34" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fad7ac;strokeColor=#b46504;" value="Kircha" vertex="1">
           <mxGeometry height="290" width="730" x="205" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-35" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b0e3e6;strokeColor=#0e8088;" value="Payment" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-35" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fad7ac;strokeColor=#b46504;" value="Payment" vertex="1">
           <mxGeometry height="150" width="730" x="205" y="790" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-41" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" target="An6h_dc5tu-ERglaM6pu-28" value="">
@@ -605,7 +605,7 @@
         <mxCell id="zPPh92snP0LapKwa6hfJ-37" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Payment&lt;div&gt;&amp;nbsp;Status&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="100" x="710" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-50" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b0e3e6;strokeColor=#0e8088;width=85;height=30;" value="Active Kircha" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-50" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fad7ac;strokeColor=#b46504;width=85;height=30;" value="Active Kircha" vertex="1">
           <mxGeometry height="250" width="730" x="205" y="950" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-52" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontStyle=1" value="Kircha Details" vertex="1">
