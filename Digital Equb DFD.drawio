@@ -528,7 +528,7 @@
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-31" connectable="0" parent="zPPh92snP0LapKwa6hfJ-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Registered" vertex="1">
           <mxGeometry relative="1" y="2" as="geometry">
-            <mxPoint x="31" y="-25" as="offset" />
+            <mxPoint x="27" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-5" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Register" vertex="1">
@@ -546,7 +546,7 @@
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-17" connectable="0" parent="zPPh92snP0LapKwa6hfJ-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Is valid or Registered" vertex="1">
           <mxGeometry relative="1" x="-0.2055" y="-1" as="geometry">
-            <mxPoint x="-55" y="-29" as="offset" />
+            <mxPoint x="-56" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-19" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" target="zPPh92snP0LapKwa6hfJ-18" value="">
@@ -554,7 +554,7 @@
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-20" connectable="0" parent="zPPh92snP0LapKwa6hfJ-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Not Registered" vertex="1">
           <mxGeometry relative="1" x="-0.1619" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="-2" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-12" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Check Phone" vertex="1">
