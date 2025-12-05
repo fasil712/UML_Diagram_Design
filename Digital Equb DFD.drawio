@@ -573,9 +573,9 @@
             <mxPoint x="655" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-42" connectable="0" parent="zPPh92snP0LapKwa6hfJ-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Not Paid" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-42" connectable="0" parent="zPPh92snP0LapKwa6hfJ-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Not Paid" vertex="1">
           <mxGeometry relative="1" x="0.0044" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-46" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" target="An6h_dc5tu-ERglaM6pu-33">
@@ -584,9 +584,9 @@
             <mxPoint x="800" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-49" connectable="0" parent="zPPh92snP0LapKwa6hfJ-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Paid" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-49" connectable="0" parent="zPPh92snP0LapKwa6hfJ-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Paid" vertex="1">
           <mxGeometry relative="1" x="-0.1368" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-37" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Payment Status" vertex="1">
