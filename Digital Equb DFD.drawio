@@ -602,8 +602,8 @@
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-37" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Payment Status" vertex="1">
-          <mxGeometry height="80" width="80" x="720" y="810" as="geometry" />
+        <mxCell id="zPPh92snP0LapKwa6hfJ-37" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Payment&lt;div&gt;&amp;nbsp;Status&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="100" x="710" y="810" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-50" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#b0e3e6;strokeColor=#0e8088;width=85;height=30;" value="Active Kircha" vertex="1">
           <mxGeometry height="250" width="730" x="205" y="950" as="geometry" />
