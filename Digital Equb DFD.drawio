@@ -442,7 +442,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-16" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontStyle=1" value="Kircha List" vertex="1">
-          <mxGeometry height="60" width="120" x="475" y="640" as="geometry" />
+          <mxGeometry height="60" width="120" x="475" y="635" as="geometry" />
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-17" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontStyle=1" target="An6h_dc5tu-ERglaM6pu-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -497,13 +497,6 @@
         <mxCell id="zPPh92snP0LapKwa6hfJ-56" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="590" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-71" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" target="zPPh92snP0LapKwa6hfJ-70" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="1120" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-33" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontStyle=1" value="Active Kircha" vertex="1">
@@ -610,9 +603,6 @@
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-55" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="Address" vertex="1">
           <mxGeometry height="60" width="120" x="530" y="1140" as="geometry" />
-        </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-70" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;strokeWidth=2;fontStyle=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="690" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-72" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;fontStyle=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="zPPh92snP0LapKwa6hfJ-74" value="">
           <mxGeometry relative="1" as="geometry">
