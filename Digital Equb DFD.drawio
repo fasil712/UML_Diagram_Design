@@ -430,14 +430,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An6h_dc5tu-ERglaM6pu-14" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1" value="Equb/Home" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="576" as="geometry" />
+        <mxCell id="An6h_dc5tu-ERglaM6pu-14" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1" value="Home" vertex="1">
+          <mxGeometry height="60" width="120" x="475" y="530" as="geometry" />
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-15" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" target="An6h_dc5tu-ERglaM6pu-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-16" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1" value="Ava. Equb List" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="678" as="geometry" />
+          <mxGeometry height="60" width="120" x="480" y="690" as="geometry" />
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-17" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontStyle=1" target="An6h_dc5tu-ERglaM6pu-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -463,7 +463,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-21" parent="An6h_dc5tu-ERglaM6pu-1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;fontStyle=1" value="Agreement" vertex="1">
-          <mxGeometry height="80" width="80" x="340" y="756" as="geometry" />
+          <mxGeometry height="80" width="80" x="700" y="800" as="geometry" />
         </mxCell>
         <mxCell id="An6h_dc5tu-ERglaM6pu-22" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="An6h_dc5tu-ERglaM6pu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontStyle=1" target="An6h_dc5tu-ERglaM6pu-29" value="">
           <mxGeometry relative="1" as="geometry">
@@ -525,23 +525,30 @@
             <mxPoint x="360" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zPPh92snP0LapKwa6hfJ-30" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="An6h_dc5tu-ERglaM6pu-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zPPh92snP0LapKwa6hfJ-31" connectable="0" parent="zPPh92snP0LapKwa6hfJ-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Registered" vertex="1">
+          <mxGeometry relative="1" y="2" as="geometry">
+            <mxPoint x="31" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-5" parent="An6h_dc5tu-ERglaM6pu-1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;strokeWidth=2;fontStyle=1;" value="Register" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-29" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="565" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-10" parent="An6h_dc5tu-ERglaM6pu-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="Auth" vertex="1">
-          <mxGeometry height="320" width="730" x="200" y="210" as="geometry" />
+          <mxGeometry height="270" width="730" x="205" y="210" as="geometry" />
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-16" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="An6h_dc5tu-ERglaM6pu-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="zPPh92snP0LapKwa6hfJ-17" connectable="0" parent="zPPh92snP0LapKwa6hfJ-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Is valid / Registered" vertex="1">
+        <mxCell id="zPPh92snP0LapKwa6hfJ-17" connectable="0" parent="zPPh92snP0LapKwa6hfJ-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Is valid or Registered" vertex="1">
           <mxGeometry relative="1" x="-0.2055" y="-1" as="geometry">
-            <mxPoint x="11" as="offset" />
+            <mxPoint x="-59" y="-67" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPPh92snP0LapKwa6hfJ-19" edge="1" parent="An6h_dc5tu-ERglaM6pu-1" source="zPPh92snP0LapKwa6hfJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zPPh92snP0LapKwa6hfJ-18" value="">
