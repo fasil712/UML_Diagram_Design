@@ -1996,32 +1996,32 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nUnfCD8MnABDgEXGEpVu" name="Page-14">
-    <mxGraphModel dx="2515" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-1" edge="1" parent="1" source="h4VJyoFVgYGAPm_dPZyT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="h4VJyoFVgYGAPm_dPZyT-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="291" as="targetPoint" />
+            <mxPoint x="540" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" value="Third-Party&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Payment and SMS Server API&lt;/span&gt;" vertex="1">
-          <mxGeometry height="54.5" width="200" x="63.75" y="200" as="geometry" />
+          <mxGeometry height="54.5" width="200" x="333.75" y="200" as="geometry" />
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-16" edge="1" parent="1" source="h4VJyoFVgYGAPm_dPZyT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4VJyoFVgYGAPm_dPZyT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;" value="Mobile App (Flutter)" vertex="1">
-          <mxGeometry height="50" width="190" x="-210" y="95" as="geometry" />
+          <mxGeometry height="50" width="190" x="100" y="95" as="geometry" />
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;" value="Database (Postgres Server)&lt;div&gt;Redis Server&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="220" x="340" y="95" as="geometry" />
+          <mxGeometry height="50" width="220" x="580" y="95" as="geometry" />
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-17" edge="1" parent="1" source="h4VJyoFVgYGAPm_dPZyT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h4VJyoFVgYGAPm_dPZyT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h4VJyoFVgYGAPm_dPZyT-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;fontSize=13;" value="&lt;span style=&quot;text-align: justify;&quot;&gt;Backend (Spring Boot) Server API&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="167.5" x="80" y="90" as="geometry" />
+          <mxGeometry height="60" width="167.5" x="350" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
