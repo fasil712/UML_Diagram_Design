@@ -107,7 +107,7 @@
         <mxCell id="DzFz1T7uCzVtA7ELJENM-16" parent="1" style="swimlane;startSize=0;fillStyle=auto;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
           <mxGeometry height="530" width="402" x="224" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="DzFz1T7uCzVtA7ELJENM-13" parent="DzFz1T7uCzVtA7ELJENM-16" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CBE Payment Gateway API (CBE Birr / Mobile Banking)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-13" parent="DzFz1T7uCzVtA7ELJENM-16" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CBE Payment Gateway API (CBE Birr / Mobile Banking)&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="65" width="280" x="60" y="295" as="geometry" />
         </mxCell>
         <mxCell id="DzFz1T7uCzVtA7ELJENM-22" edge="1" parent="DzFz1T7uCzVtA7ELJENM-16" source="DzFz1T7uCzVtA7ELJENM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DzFz1T7uCzVtA7ELJENM-13">
