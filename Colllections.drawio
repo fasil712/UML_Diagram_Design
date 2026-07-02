@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1030" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="686" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,6 +63,61 @@
         </mxCell>
         <mxCell id="EC1OLnHcg-hDZEbeRDg6-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;fillStyle=auto;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
           <mxGeometry height="659" width="402" x="214" y="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zNHnC6NcEU0dR95nIJJi" name="Page-2">
+    <mxGraphModel dx="1030" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-1" edge="1" parent="1" source="DzFz1T7uCzVtA7ELJENM-3" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DzFz1T7uCzVtA7ELJENM-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-2" connectable="0" parent="DzFz1T7uCzVtA7ELJENM-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;color: rgb(0, 0, 0); line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; white-space: normal; margin-top: 0.04in;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.31" y="-2" as="geometry">
+            <mxPoint x="2" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Digital Kircha Mobile App (Flutter)&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="260" x="294" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-5" edge="1" parent="1" source="DzFz1T7uCzVtA7ELJENM-7" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DzFz1T7uCzVtA7ELJENM-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-6" connectable="0" parent="DzFz1T7uCzVtA7ELJENM-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;color: rgb(0, 0, 0); line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; white-space: normal; margin-top: 0.04in;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.31" y="-2" as="geometry">
+            <mxPoint x="92" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;[ Digital Kircha Backend — Spring Boot Payment Service ]&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="260" x="294" y="417" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#7f8c8d&quot;&gt;↓ &lt;font style=&quot;font-size: 10pt;&quot;&gt;HTTPS REST API (JSON) + OAuth2 / API Key&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="229" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=default;" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#7f8c8d&quot;&gt;&lt;font style=&quot;font-size: 10pt;&quot;&gt;HTTPS / TLS 1.2+&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="229" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-16" parent="1" style="swimlane;startSize=0;fillStyle=auto;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
+          <mxGeometry height="579" width="402" x="224" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-13" parent="DzFz1T7uCzVtA7ELJENM-16" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;CBE Payment Gateway API (CBE Birr / Mobile Banking)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="260" x="70" y="342" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-22" edge="1" parent="DzFz1T7uCzVtA7ELJENM-16" source="DzFz1T7uCzVtA7ELJENM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DzFz1T7uCzVtA7ELJENM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-21" parent="DzFz1T7uCzVtA7ELJENM-16" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fad9d5;strokeColor=#ae4132;align=center;" value="&lt;p class=&quot;western&quot; style=&quot;line-height: 14.6667px; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#1a1a2e&quot;&gt;&lt;font style=&quot;font-size: 11pt;&quot;&gt;&lt;b&gt;Digital Kircha Callback Endpoint — Validates &amp;amp; Updates Records&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="71" width="280" x="60" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="DzFz1T7uCzVtA7ELJENM-23" parent="DzFz1T7uCzVtA7ELJENM-16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background: transparent; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#7f8c8d&quot;&gt;&lt;font style=&quot;font-size: 10pt;&quot;&gt;Webhook / Callback — Transaction Status Update&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="390" x="16" y="432" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
