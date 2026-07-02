@@ -99,10 +99,10 @@
           <mxGeometry height="65" width="260" x="294" y="417" as="geometry" />
         </mxCell>
         <mxCell id="DzFz1T7uCzVtA7ELJENM-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#7f8c8d&quot;&gt;&lt;font style=&quot;font-size: 10pt;&quot;&gt;HTTPS REST API (JSON) + OAuth2 / API Key&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="390" x="229" y="501" as="geometry" />
+          <mxGeometry height="30" width="390" x="229" y="504" as="geometry" />
         </mxCell>
         <mxCell id="DzFz1T7uCzVtA7ELJENM-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=default;labelBackgroundColor=none;" value="&lt;p class=&quot;western&quot; align=&quot;center&quot; style=&quot;line-height: 14.6667px; text-align: left; margin-bottom: 0in; direction: ltr; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-family: Arial, serif; font-size: 11pt; margin-top: 0.04in;&quot;&gt;&lt;font color=&quot;#7f8c8d&quot;&gt;&lt;font style=&quot;font-size: 10pt;&quot;&gt;HTTPS / TLS 1.2+&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="390" x="231" y="358" as="geometry" />
+          <mxGeometry height="30" width="390" x="231" y="359" as="geometry" />
         </mxCell>
         <mxCell id="DzFz1T7uCzVtA7ELJENM-16" parent="1" style="swimlane;startSize=0;fillStyle=auto;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
           <mxGeometry height="579" width="402" x="224" y="223" as="geometry" />
